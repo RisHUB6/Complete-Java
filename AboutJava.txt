@@ -1,0 +1,11 @@
+So there are alot thing in the java and methodology that make java different from other programming languages. Some of the term we are going to learn.
+This is the first section of learning and here we are going to learn about the java 
+
+TOPICS:
+  1.Creation of Java
+  2.Use of Java
+  3.Scope of Java
+  4.Pros and Cons of Java
+  5.Industry level implementation of it
+  6.Job Opportunities through java
+  7.Why Java as a first language
